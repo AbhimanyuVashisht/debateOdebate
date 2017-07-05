@@ -3599,7 +3599,7 @@ h2.title {
 .team {
   margin-top: 80px;
 }
-.team .team-player .title {
+.team .team-player .ti{
   margin: 30px auto;
 }
 .team .team-player img {
@@ -3624,13 +3624,14 @@ h2.title {
   height: 90vh;
 }
 .index-page .brand {
-  margin-top: 30vh;
-  color: #FFFFFF;
+  margin-top: 32vh;
+  padding-left: 16px;
+  color: antiquewhite;
   text-align: center;
 }
 .index-page .brand h1 {
-  font-size: 4.8em;
-  font-weight: 600;
+  font-size: 5.0em;
+  font-weight: 700;
 }
 .index-page .brand h3 {
   font-size: 1.5em;
