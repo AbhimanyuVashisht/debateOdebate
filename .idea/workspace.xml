@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42555758-df23-45e8-bd7f-0f0e26a783bf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="42" column="114" lean-forward="false" selection-start-line="42" selection-start-column="114" selection-end-line="42" selection-end-column="114" />
+            <state relative-caret-position="524">
+              <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -33,8 +34,8 @@
       <file leaf-file-name="dOd_custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/dOd_custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="28">
+              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -43,8 +44,8 @@
       <file leaf-file-name="material-kit.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/material-kit.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="3630" column="21" lean-forward="true" selection-start-line="3630" selection-start-column="21" selection-end-line="3630" selection-end-column="21" />
+            <state relative-caret-position="175">
+              <caret line="3554" column="11" lean-forward="false" selection-start-line="3554" selection-start-column="0" selection-end-line="3554" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -76,6 +77,8 @@
       <find>carousel-example-generic</find>
       <find>carousel-cap</find>
       <find>.brand</find>
+      <find>.main</find>
+      <find>.main-raise</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -85,8 +88,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Sign-in-up.html" />
-        <option value="$PROJECT_DIR$/assets/css/dOd_custom.css" />
         <option value="$PROJECT_DIR$/assets/css/material-kit.css" />
+        <option value="$PROJECT_DIR$/assets/css/dOd_custom.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -302,12 +305,12 @@
       <option name="presentableId" value="Default" />
       <updated>1499100086789</updated>
       <workItem from="1499100088550" duration="15200000" />
-      <workItem from="1499199896557" duration="39133000" />
+      <workItem from="1499199896557" duration="40288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54333000" />
+    <option name="totallyTimeSpent" value="55488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="707" y="21" width="659" height="747" extended-state="4" />
@@ -409,26 +412,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/dOd_custom.css">
+    <entry file="file://$PROJECT_DIR$/assets/css/material-kit.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="175">
+          <caret line="3554" column="11" lean-forward="false" selection-start-line="3554" selection-start-column="0" selection-end-line="3554" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/material-kit.css">
+    <entry file="file://$PROJECT_DIR$/assets/css/dOd_custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="3630" column="21" lean-forward="true" selection-start-line="3630" selection-start-column="21" selection-end-line="3630" selection-end-column="21" />
+        <state relative-caret-position="28">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="42" column="114" lean-forward="false" selection-start-line="42" selection-start-column="114" selection-end-line="42" selection-end-column="114" />
+        <state relative-caret-position="524">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
