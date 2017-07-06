@@ -19,3 +19,8 @@
     background-color: #9c27b0;
     font-weight: 600;
 }
+
+
+.current-polling .wrapper .card{
+    margin-top: 100px;
+}
