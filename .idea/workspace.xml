@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42555758-df23-45e8-bd7f-0f0e26a783bf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sign-in-up.html" afterPath="$PROJECT_DIR$/Sign-in-up.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/polls.js" afterPath="$PROJECT_DIR$/assets/js/polls.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,11 +21,33 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="155" column="33" lean-forward="false" selection-start-line="142" selection-start-column="24" selection-end-line="155" selection-end-column="33" />
+            <state relative-caret-position="76">
+              <caret line="135" column="14" lean-forward="false" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sign-in-up.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sign-in-up.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="106" column="81" lean-forward="false" selection-start-line="106" selection-start-column="81" selection-end-line="106" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signup.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/signup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#35#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -60,23 +83,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="polls.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="polls.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/polls.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="83" column="16" lean-forward="false" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+            <state relative-caret-position="14">
+              <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
               <folding>
-                <marker date="1499351096760" expanded="false" signature="0:35" ph="/** Created by av on 6/7/17. ...*/" />
-                <marker date="1499351096760" expanded="true" signature="1155:2281" ph="..." />
-                <marker date="1499351096760" expanded="true" signature="1255:2254" ph="..." />
-                <marker date="1499351096760" expanded="true" signature="1316:1494" ph="..." />
-                <marker date="1499351096760" expanded="true" signature="1566:1626" ph="..." />
-                <marker date="1499351096760" expanded="true" signature="1566:1737" ph="..." />
-                <marker date="1499351096760" expanded="true" signature="1566:2219" ph="..." />
-                <marker date="1499351096760" expanded="true" signature="1762:1912" ph="..." />
-                <marker date="1499351096760" expanded="true" signature="1842:1848" ph=" " />
-                <marker date="1499351096760" expanded="true" signature="2029:2180" ph="..." />
-                <marker date="1499351096760" expanded="true" signature="2111:2117" ph=" " />
+                <marker date="1499354112628" expanded="false" signature="0:35" ph="/** Created by av on 6/7/17. ...*/" />
+                <marker date="1499354112628" expanded="true" signature="1155:2281" ph="..." />
+                <marker date="1499354112628" expanded="true" signature="1255:2254" ph="..." />
+                <marker date="1499354112628" expanded="true" signature="1316:1494" ph="..." />
+                <marker date="1499354112628" expanded="true" signature="1566:1626" ph="..." />
+                <marker date="1499354112628" expanded="true" signature="1566:1737" ph="..." />
+                <marker date="1499354112628" expanded="true" signature="1566:2219" ph="..." />
+                <marker date="1499354112628" expanded="true" signature="1762:1912" ph="..." />
+                <marker date="1499354112628" expanded="true" signature="1842:1848" ph=" " />
+                <marker date="1499354112628" expanded="true" signature="2029:2180" ph="..." />
+                <marker date="1499354112628" expanded="true" signature="2111:2117" ph=" " />
               </folding>
             </state>
           </provider>
@@ -129,12 +152,13 @@
         <option value="$PROJECT_DIR$/opinions.html" />
         <option value="$PROJECT_DIR$/debates.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Sign-in-up.html" />
         <option value="$PROJECT_DIR$/assets/css/dOd_custom.css" />
         <option value="$PROJECT_DIR$/polls.js" />
         <option value="$PROJECT_DIR$/assets/js/material-kit.js" />
         <option value="$PROJECT_DIR$/currentpolls.html" />
         <option value="$PROJECT_DIR$/assets/js/polls.js" />
+        <option value="$PROJECT_DIR$/Sign-in-up.html" />
+        <option value="$PROJECT_DIR$/assets/js/signup.js" />
       </list>
     </option>
   </component>
@@ -145,10 +169,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="-4" />
-    <option name="width" value="1318" />
-    <option name="height" value="772" />
+    <option name="x" value="707" />
+    <option name="y" value="21" />
+    <option name="width" value="659" />
+    <option name="height" value="747" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -373,15 +397,15 @@
       <option name="presentableId" value="Default" />
       <updated>1499100086789</updated>
       <workItem from="1499100088550" duration="15200000" />
-      <workItem from="1499199896557" duration="64842000" />
+      <workItem from="1499199896557" duration="69385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80042000" />
+    <option name="totallyTimeSpent" value="84585000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="-4" width="1318" height="772" extended-state="6" />
+    <frame x="707" y="21" width="659" height="747" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21235521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -490,14 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sign-in-up.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="62" column="32" lean-forward="false" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/material-kit.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
@@ -542,13 +558,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/currentpolls.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="72" column="26" lean-forward="false" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="155" column="33" lean-forward="false" selection-start-line="142" selection-start-column="24" selection-end-line="155" selection-end-column="33" />
+        <state relative-caret-position="76">
+          <caret line="135" column="14" lean-forward="false" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/polls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+          <folding>
+            <marker date="1499354112628" expanded="false" signature="0:35" ph="/** Created by av on 6/7/17. ...*/" />
+            <marker date="1499354112628" expanded="true" signature="1155:2281" ph="..." />
+            <marker date="1499354112628" expanded="true" signature="1255:2254" ph="..." />
+            <marker date="1499354112628" expanded="true" signature="1316:1494" ph="..." />
+            <marker date="1499354112628" expanded="true" signature="1566:1626" ph="..." />
+            <marker date="1499354112628" expanded="true" signature="1566:1737" ph="..." />
+            <marker date="1499354112628" expanded="true" signature="1566:2219" ph="..." />
+            <marker date="1499354112628" expanded="true" signature="1762:1912" ph="..." />
+            <marker date="1499354112628" expanded="true" signature="1842:1848" ph=" " />
+            <marker date="1499354112628" expanded="true" signature="2029:2180" ph="..." />
+            <marker date="1499354112628" expanded="true" signature="2111:2117" ph=" " />
           </folding>
         </state>
       </provider>
@@ -561,30 +605,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/currentpolls.html">
+    <entry file="file://$PROJECT_DIR$/Sign-in-up.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="72" column="26" lean-forward="false" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+        <state relative-caret-position="535">
+          <caret line="106" column="81" lean-forward="false" selection-start-line="106" selection-start-column="81" selection-end-line="106" selection-end-column="81" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/polls.js">
+    <entry file="file://$PROJECT_DIR$/assets/js/signup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="83" column="16" lean-forward="false" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+        <state relative-caret-position="252">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
-            <marker date="1499351096760" expanded="false" signature="0:35" ph="/** Created by av on 6/7/17. ...*/" />
-            <marker date="1499351096760" expanded="true" signature="1155:2281" ph="..." />
-            <marker date="1499351096760" expanded="true" signature="1255:2254" ph="..." />
-            <marker date="1499351096760" expanded="true" signature="1316:1494" ph="..." />
-            <marker date="1499351096760" expanded="true" signature="1566:1626" ph="..." />
-            <marker date="1499351096760" expanded="true" signature="1566:1737" ph="..." />
-            <marker date="1499351096760" expanded="true" signature="1566:2219" ph="..." />
-            <marker date="1499351096760" expanded="true" signature="1762:1912" ph="..." />
-            <marker date="1499351096760" expanded="true" signature="1842:1848" ph=" " />
-            <marker date="1499351096760" expanded="true" signature="2029:2180" ph="..." />
-            <marker date="1499351096760" expanded="true" signature="2111:2117" ph=" " />
+            <element signature="e#0#35#0" expanded="false" />
           </folding>
         </state>
       </provider>

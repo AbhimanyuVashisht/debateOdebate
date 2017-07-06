@@ -78,9 +78,6 @@ function createNewPollElement(i) {
 }
 
 function checkNAN(num) {
-
-
-   console.log(num);
     if(isNaN(num)){
        return 0;
     }
