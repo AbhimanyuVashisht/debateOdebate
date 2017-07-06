@@ -64,3 +64,4 @@ function addDebTopic(debTopic, debatorStand) {
     debates.push(new debate(debTopic, debatorStand));
     refreshDebate();
 }
+
