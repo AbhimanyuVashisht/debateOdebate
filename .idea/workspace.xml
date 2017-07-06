@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42555758-df23-45e8-bd7f-0f0e26a783bf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/currentpolls.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debates.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opinions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/dOd_custom.css" afterPath="$PROJECT_DIR$/assets/css/dOd_custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -22,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="175" column="122" lean-forward="false" selection-start-line="175" selection-start-column="122" selection-end-line="175" selection-end-column="122" />
+            <state relative-caret-position="664">
+              <caret line="177" column="32" lean-forward="false" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -55,10 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="currentpolls.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="currentpolls.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/currentpolls.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="17">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
@@ -68,8 +64,8 @@
       <file leaf-file-name="dOd_custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/dOd_custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -78,8 +74,8 @@
       <file leaf-file-name="material-kit.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/material-kit.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26500">
-              <caret line="648" column="7" lean-forward="true" selection-start-line="648" selection-start-column="7" selection-end-line="649" selection-end-column="1" />
+            <state relative-caret-position="128">
+              <caret line="2547" column="20" lean-forward="true" selection-start-line="2547" selection-start-column="20" selection-end-line="2547" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -125,10 +121,10 @@
         <option value="$PROJECT_DIR$/Sign-in-up.html" />
         <option value="$PROJECT_DIR$/assets/css/material-kit.css" />
         <option value="$PROJECT_DIR$/currentpolls.html" />
-        <option value="$PROJECT_DIR$/assets/css/dOd_custom.css" />
         <option value="$PROJECT_DIR$/opinions.html" />
         <option value="$PROJECT_DIR$/debates.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/dOd_custom.css" />
       </list>
     </option>
   </component>
@@ -343,18 +339,18 @@
       <option name="presentableId" value="Default" />
       <updated>1499100086789</updated>
       <workItem from="1499100088550" duration="15200000" />
-      <workItem from="1499199896557" duration="45015000" />
+      <workItem from="1499199896557" duration="47958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60215000" />
+    <option name="totallyTimeSpent" value="63158000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="-4" width="1318" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5042471" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4481132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -450,30 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/material-kit.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26500">
-          <caret line="648" column="7" lean-forward="true" selection-start-line="648" selection-start-column="7" selection-end-line="649" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/dOd_custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currentpolls.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/opinions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -492,12 +464,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="175" column="122" lean-forward="false" selection-start-line="175" selection-start-column="122" selection-end-line="175" selection-end-column="122" />
+        <state relative-caret-position="664">
+          <caret line="177" column="32" lean-forward="false" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/material-kit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="2547" column="20" lean-forward="true" selection-start-line="2547" selection-start-column="20" selection-end-line="2547" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/dOd_custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currentpolls.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

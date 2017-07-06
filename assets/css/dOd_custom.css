@@ -14,4 +14,8 @@
     color: white;
 }
 
-
+.index-page .main-raised .card{
+    width: 38rem;
+    background-color: #9c27b0;
+    font-weight: 600;
+}
