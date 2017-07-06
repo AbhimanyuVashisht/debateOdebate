@@ -70,46 +70,46 @@ materialKit = {
             }
     }, 17),
 
-    initSliders: function(){
-        // Sliders for demo purpose
-        $('#sliderRegular').noUiSlider({
-            start: 40,
-            connect: "lower",
-            range: {
-                min: 0,
-                max: 100
-            }
-        });
-
-        $('#sliderDouble').noUiSlider({
-            start: [20, 60] ,
-            connect: true,
-            range: {
-                min: 0,
-                max: 100
-            }
-        });
-    }
+    // initSliders: function(){
+    //     // Sliders for demo purpose
+    //     $('#sliderRegular').noUiSlider({
+    //         start: 40,
+    //         connect: "lower",
+    //         range: {
+    //             min: 0,
+    //             max: 100
+    //         }
+    //     });
+    //
+    //     $('#sliderDouble').noUiSlider({
+    //         start: [20, 60] ,
+    //         connect: true,
+    //         range: {
+    //             min: 0,
+    //             max: 100
+    //         }
+    //     });
+    // }
 }
 
 
 var big_image;
-
-materialKitDemo = {
-    checkScrollForParallax: debounce(function(){
-        var current_scroll = $(this).scrollTop();
-
-        oVal = ($(window).scrollTop() / 3);
-        big_image.css({
-            'transform':'translate3d(0,' + oVal +'px,0)',
-            '-webkit-transform':'translate3d(0,' + oVal +'px,0)',
-            '-ms-transform':'translate3d(0,' + oVal +'px,0)',
-            '-o-transform':'translate3d(0,' + oVal +'px,0)'
-        });
-
-    }, 6)
-
-}
+//
+// materialKitDemo = {
+//     checkScrollForParallax: debounce(function(){
+//         var current_scroll = $(this).scrollTop();
+//
+//         oVal = ($(window).scrollTop() / 3);
+//         big_image.css({
+//             'transform':'translate3d(0,' + oVal +'px,0)',
+//             '-webkit-transform':'translate3d(0,' + oVal +'px,0)',
+//             '-ms-transform':'translate3d(0,' + oVal +'px,0)',
+//             '-o-transform':'translate3d(0,' + oVal +'px,0)'
+//         });
+//
+//     }, 6)
+//
+// }
 // Returns a function, that, as long as it continues to be invoked, will not
 // be triggered. The function will be called after it stops being called for
 // N milliseconds. If `immediate` is passed, trigger the function on the
