@@ -16,7 +16,7 @@ $(function () {
 
    let btnAdd = $('#btn-add-qpoll');
    let newPoll = $('#input-new-qpoll');
-   let voteUP = $('.thumbup');
+
    pollListElement = $('.polls');
 
    refreshPolls(true);
