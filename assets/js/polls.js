@@ -16,15 +16,14 @@ $(function () {
 
    let btnAdd = $('#btn-add-qpoll');
    let newPoll = $('#input-new-qpoll');
-
+   let voteUP = $('.thumbup');
    pollListElement = $('.polls');
 
    refreshPolls(true);
 
    btnAdd.click(function () {
       addQPolls(newPoll.val());
-   })
-
+   });
 });
 
 function refreshPolls(firstPageLoad = false) {
@@ -43,20 +42,32 @@ function refreshPolls(firstPageLoad = false) {
     }
 }
 
+
+function thumbsUP(pollId) {
+    polls[pollId].yes ++;
+    refreshPolls();
+}
+
+function thumbsDown(pollId) {
+   polls[pollId].no ++;
+   refreshPolls();
+}
 function createNewPollElement(i) {
-   let pollItem = $(`<div class="col-sm-4 ">
+   let yesPercent = Math.round((polls[i].yes/(polls[i].yes+polls[i].no))*100);
+   let noPercent = Math.round((polls[i].no/(polls[i].yes+polls[i].no))*100);
+   let pollItem = $(`<div class="col-sm-4">
                             <!--Polls-->
                             <div class="card text-center">
                                 <a href="currentpolls.html">
-                                    <img class="card-image-top" src=" http://via.placeholder.com/350x150?text=Poll+Section" alt="debatetopicpoll">
+                                    <img class="card-image-top" src=" http://via.placeholder.com/350x150?text=Poll+Section" alt="PollTopic">
                                 </a>
                                 <div class="card-block" data-id="${i}">
                                     <h4 class="card-text">${polls[i].QPoll}</h4>
-                                    <a class="btn btn-success btn-primary btn-just-icon thumbup">
-                                        <i class="material-icons">thumb_up</i>
+                                    <a class="btn btn-success btn-primary btn-just-icon" onclick="thumbsUP(${i})">
+                                        <i class="material-icons">thumb_up</i>&nbsp;${checkNAN(yesPercent)}%
                                     </a>
-                                    <a class="btn btn-success btn-primary btn-just-icon thumbdown">
-                                        <i class="material-icons">thumb_down</i>
+                                    <a class="btn btn-success btn-primary btn-just-icon" onclick="thumbsDown(${i})">
+                                        <i class="material-icons">thumb_down</i>&nbsp;${checkNAN(noPercent)}%
                                     </a>
                                 </div>
                             </div>
@@ -64,6 +75,16 @@ function createNewPollElement(i) {
 
     return pollItem
 
+}
+
+function checkNAN(num) {
+
+
+   console.log(num);
+    if(isNaN(num)){
+       return 0;
+    }
+    return num
 }
 
 function retrievePolls() {
