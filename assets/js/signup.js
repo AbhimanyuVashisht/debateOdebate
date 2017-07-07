@@ -5,9 +5,16 @@
 let users = [];
 
 $(function () {
-
+    retrieveUsers();
 });
 
+
+function retrieveUsers() {
+    let savedUsers = localStorage.getItem('users');
+    if(savedUsers){
+        users = JSON.parse(savedUsers);
+    }
+}
 function login() {
     let name = $('#name');
     let email = $('#email');
