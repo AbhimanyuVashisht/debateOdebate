@@ -9,13 +9,13 @@ $(function () {
 });
 
 function login() {
-    console.log("wbfxfdxfcsdv");
     let name = $('#name');
     let email = $('#email');
     let pswd = $('#pswd');
     let sub = $('#sub');
 
     users.push(new user(name.val(), email.val(),pswd.val(), sub.val()));
+    console.log(users);
     localStorage.setItem("users",JSON.stringify(users));
     window.alert("Successfully Registerd");
 }
