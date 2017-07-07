@@ -17,7 +17,7 @@ function login() {
     users.push(new user(name.val(), email.val(),pswd.val(), sub.val()));
     console.log(users);
     localStorage.setItem("users",JSON.stringify(users));
-    window.alert("Successfully Registerd");
+    window.alert("Successfully Registerd : LoginIn to continue");
 }
 
 function user(name,email,pswd,sub) {

@@ -40,6 +40,7 @@ function authUser(Email, pswd) {
         console.log(pswd  + "    " + users[i].pswd);
         if(Email === users[i].email && pswd === users[i].pswd){
             alert("Successfully LoggedIn");
+            sessionStorage.setItem('currUser',JSON.stringify(i));
             return;
         }
     }
