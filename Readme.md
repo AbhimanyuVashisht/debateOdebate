@@ -4,4 +4,4 @@
 
 Created Using HTML, CSS and Bootstrap
 
-![](https://github.com/AbhimanyuVashisht/debateOdebate/tree/master/assets/img/debateodebate.png)
+![Image](https://raw.githubusercontent.com/AbhimanyuVashisht/debateOdebate/master/assets/img/debateOdebate.png)
